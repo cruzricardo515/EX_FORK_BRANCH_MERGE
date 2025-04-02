@@ -8,6 +8,14 @@ COMPRAR Veículo: Remove um veículo da lista, simulando a compra.
 """)
 
 
+("""
+Adicionar Peça: O usuário pode inserir uma nova peça de roupa informando os detalhes necessários (tipo, tamanho, cor, preço, etc.).
+
+Listar Peças: Exibe todas as peças disponíveis no catálogo.
+
+Comprar Peça: Remove uma peça da lista, simulando a compra.
+""")
+
 veiculos = []  # Lista para armazenar os veículos
 id_veiculo = 1  # Inicializa o ID dos veículos
 
